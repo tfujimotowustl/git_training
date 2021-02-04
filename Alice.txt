@@ -3,3 +3,6 @@ Adding new text to this line.
 
 
 Now adding this line
+
+
+Now doing rebase
