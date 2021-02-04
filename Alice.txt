@@ -8,7 +8,7 @@ Now adding this line
 Now doing rebase
 im just adding stuff at this point
 
-
+We almost done
 Now im editing for the fetch
 
 Dog
